@@ -60,17 +60,15 @@ Here is the initial view
 
 **In Adding new expense,**
 
-![image](https://github.com/user-attachments/assets/d8ee7825-51ab-4dde-b299-e8de16636320)
-
+![image](https://github.com/user-attachments/assets/2350d0d4-3169-4b16-9c0f-882e60ca351e)
 
 **Editing expense,**
 
-![image](https://github.com/user-attachments/assets/0fe7dfe6-a957-4dce-8df0-973dd94751f0)
-
+![image](https://github.com/user-attachments/assets/58da94ea-5714-42df-acb4-222f98e3a724)
 
 **After many data adding then list look like this,**
 
-![image](https://github.com/user-attachments/assets/7b8010a2-f6f2-4d12-a7af-00ac543d732d)
+![image](https://github.com/user-attachments/assets/ac3e0272-98c9-4500-a7a7-370b1716d173)
 
 ## 3. How Do You Manage State in Your Application? Why Did You Choose This Solution?
 1. I use React’s `useState` and `useEffect` hooks to manage state locally within components.
