@@ -1,0 +1,76 @@
+body {
+  background-color: #EAEAEA !important;
+}
+
+.margin {
+  margin-bottom: 10px !important;
+}
+
+.align {
+  text-align: center;
+  font-size: 2.2rem;
+  color: #4A90E2;
+}
+
+.container-style {
+  margin-top: 20px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.app-title {
+  text-align: center;
+  font-size: 3rem;
+  color: #222;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.form-title{
+  text-align: center;
+  font-size: 2rem;
+  color: #2ECC71;
+  font-weight: 500;
+  margin-bottom: 10px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.ui.inverted.table thead th {
+  background-color: #2C3E50;
+  color: #FFF;
+  text-align: center;
+}
+
+.ui.inverted.table tbody tr {
+  background-color: #34495E;
+  color: #FFF;
+}
+
+button.ui.button.positive {
+  background-color: #27AE60;
+  color: #FFF;
+}
+
+button.ui.button.negative {
+  background-color: #E74C3C;
+  color: #FFF;
+}
+
+.totals-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+
+.totals-container h2 {
+  color: #2ECC71;
+}
+
+span {
+  color: #E74C3C;
+}
