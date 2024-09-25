@@ -35,7 +35,7 @@ This project is a simple web application built using `React (with TypeScript)` f
 Initially, the expense list may be empty (due to a new database), but you can add expenses via the UI, and they will display in the list.
 Here is the initial view
 
-![image](https://github.com/user-attachments/assets/11fbff6b-f662-4831-8a13-1127f8ada09f)
+![image](https://github.com/user-attachments/assets/fb682440-2f4b-470d-845b-7f074bfc9f7c)
 
 ## 2. What is the Overall Structure of Your Code?
 ### Backend (.NET)
