@@ -18,8 +18,7 @@ This project is a simple web application built using `React (with TypeScript)` f
 4. Press `Ctrl + F5` to start the project. It should automatically open the Swagger API interface in the browser.
 5. After that the browser will look like this,
    
-  ![image](https://github.com/user-attachments/assets/04a1d72c-eba5-4a25-acc0-607a7ef70cf5)
-
+  ![image](https://github.com/user-attachments/assets/bad04064-df33-4097-8308-4df1799447cc)
 
 ### Frontend Setup
 1. Navigate to the frontend directory in the terminal.
